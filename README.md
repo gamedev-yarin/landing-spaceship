@@ -3,7 +3,6 @@
 <div dir='rtl' lang='he'>
 קישור למשחק: https://yarinsh.itch.io/landing-spaceship
 דבר ראשון שעשיתי בניתי 
-
 [KeyboardForceAdder]( https://github.com/gamedev-yarin/landing-spaceship/blob/main/Assets/Scripts/KeyboardForceAdder.cs)  
   
 שאחראי על הזזת הדמות במשחק. הסקריפט בנוי בדומה ל [KeyboardMover]( https://github.com/gamedev-yarin/cross-the-road/blob/main/Assets/Scripts/move/KeyboardMover.cs)רק שהפעם בגלל שנעשה שימוש במנוע הפיזיקלי נעשה שימוש ב AddForce
